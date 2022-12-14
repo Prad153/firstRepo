@@ -1,2 +1,6 @@
 wat
-edited in github - look for conflict
+
+edited in github - conflict resolved local
+
+edited in github - conflict resolved local
+
